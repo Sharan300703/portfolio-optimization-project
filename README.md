@@ -65,4 +65,4 @@ Open the Jupyter Notebook in the `notebooks/` directory to explore the analysis 
 - Explore **machine learning** to predict asset returns or volatility.
 
 ## Full Report
-[View Full Report](docs/portfolio_optimization_project.pdf)
+[View Full Report](docs/portfolio_optimization_project_report.pdf)
