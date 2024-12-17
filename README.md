@@ -63,3 +63,6 @@ Open the Jupyter Notebook in the `notebooks/` directory to explore the analysis 
 - Implement **backtesting** to validate portfolio performance with out-of-sample data.
 - Add **constraints** (e.g., sector caps, no short-selling) for realistic scenarios.
 - Explore **machine learning** to predict asset returns or volatility.
+
+## Full Report
+[View Full Report](Portfolio_Optimization_Report.pdf)
